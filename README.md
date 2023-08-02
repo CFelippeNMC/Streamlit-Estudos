@@ -1,2 +1,2 @@
 # Streamlit Estudos
- Repositorio para estudos em Streamlit
+ Repositório para estudos em Streamlit
